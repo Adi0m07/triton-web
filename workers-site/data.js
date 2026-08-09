@@ -199,5 +199,6 @@ export const redirect = {
   'devops-session' : 'https://www.youtube.com/watch?v=4qM8uZ-5KC0',
   'rts-blog' : 'https://medium.com/gdg-vit/the-art-of-being-good-enough-2f6fcbf7a6b0',
   'dj-brochure' : 'https://drive.google.com/file/d/1e99jAnNVeMlFYQ2E1RN_MTsfLcbJ-L8D/view?usp=sharing',
-  'dj26-brochure' : 'https://drive.google.com/file/d/11nJ01EvScin61av-X1K8J-Q-2wkmGRXM/view?usp=sharing'
+  'dj26-brochure' : 'https://drive.google.com/file/d/11nJ01EvScin61av-X1K8J-Q-2wkmGRXM/view?usp=sharing',
+  'dj-register' : 'https://gravitas.vit.ac.in/events/02fe0783-1b61-461c-b306-fc8c118f9607'
 }
